@@ -1,0 +1,9 @@
+{
+  "name": "Church Walkie-Talkie",
+  "short_name": "WalkieTalkie",
+  "start_url": "/app/",
+  "display": "standalone",
+  "background_color": "#F4F6FA",
+  "theme_color": "#F4F6FA",
+  "description": "Church Media & Volunteer Push-to-Talk Walkie-Talkie"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "church-walkie-talkie",
+  "version": "1.0.0",
+  "description": "Professional Church PTT System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "cors": "^2.8.5"
+  }
+}
